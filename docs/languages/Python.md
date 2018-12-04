@@ -1,6 +1,6 @@
 
-Python
-Below is an example for live exchange rates data using Python:
+#Python
+##Below is an example for live exchange rates data using Python:
 
 import requests
 
