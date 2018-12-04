@@ -1,0 +1,95 @@
+Terms And Conditions
+Overview
+All use of the website, information, services, and content distributed through or in conjunction with or made available on the website is offered to you subject to your acceptance of these Terms of Service and our Privacy Policy. By purchasing any goods or services from this website, you are furthermore bound by this site's Service Agreement. 
+
+The following terms and conditions incorporate a legal agreement between you (“You”) and (“fxmarketapi”) and set forth the terms and conditions by which fxmarketapi will make the Fxmarketapi API service available in order to electronically provide You with use of and access to Fxmarketapi Data & Services. 
+
+Fxmarketapi API Services 
+For the purposes of this Agreement, “Fxmarketapi API Services” shall consist of: 
+all currency data and information feeds, media, software, and/or electronic documentation made available or supplied by fxmarketapi or its licensees
+and certain other software, data, and/or documents supplied by fxmarketapi or its licensees to facilitate use of such data or services. “Fxmarketapi API Data and Services” means fxmarketapi’s service or application programming interface that allows You and other authorised licensees to access Fxmarketapi API Data & Services and make use of Fxmarketapi API Services. This Agreement includes all amendments, addendums, and revisions to the terms herein in effect between You and fxmarketapi from time to time.
+
+
+Acknowledgement
+By accessing or otherwise using the Fxmarketapi API, You acknowledge that You:
+have read all of the terms and conditions of this Agreement;
+agree to be bound by the terms and conditions of this Agreement;
+agree to check the Fxmarketapi API pages from time to time for any updates or amendments to the terms and conditions of this Agreement; and,
+have the power and authority to enter into this Agreement. If You do not acknowledge the above, You may not access or use the Fxmarketapi API. If You are dissatisfied with the terms, conditions, rules, policies, guidelines, or practices of fxmarketapi, Your sole and exclusive remedy is to discontinue accessing or otherwise using the Fxmarketapi API.
+
+Scope of License
+
+Grant of License
+fxmarketapi hereby grants to You a non-transferable, non-exclusive, revocable, and limited license for the term of this Agreement to access the Fxmarketapi API and use Fxmarketapi API Data & Services strictly for the limited purposes, and under the terms and conditions, as are set forth in this Agreement.
+
+Scope of the Fxmarketapi API License
+Subject to Your compliance with the terms of this Agreement, You are hereby permitted to receive, process, and display Fxmarketapi API Data & Services to individual end-users of your application(s), provided
+such end users use Fxmarketapi API Data & Services strictly for their own personal use,
+You do not permit Your end users to store, distribute, or otherwise exploit Fxmarketapi API Data & Services for any other purposes.
+
+For clarity, and without limiting the forgoing, You are permitted solely to use Fxmarketapi API Data & Services for reference by Your end users. Except as expressly provided herein, under no circumstances whatsoever may You transfer or permit the transfer of Fxmarketapi API Data & Services outside of your application(s). 
+Use of License
+
+Restrictions
+You shall not:
+reproduce, copy, modify, distribute, market, display, transfer, sublicense, assign, prepare derivative work(s) or adaptation(s) based on, sell, exchange, barter or transfer, rent, lease, loan, time-share, resell, or in any other manner exploit Fxmarketapi API Data & Services or the Fxmarketapi API;
+make access to Fxmarketapi API Data & Services or the Fxmarketapi API available to unauthorised parties, or otherwise post or distribute Fxmarketapi API Data & Services in any public forum including, but not limited to, print, newsletters, radio, television, or internet;
+remove, obscure, or alter any required notice or any notice of fxmarketapi’s intellectual property rights present on or in the Fxmarketapi API, including, but not limited to, copyright, trademark, and/or patent notices;
+disassemble, translate, reverse engineer or otherwise decompile Fxmarketapi API Data & Services or the Fxmarketapi API;
+knowingly cause or permit anything that will impair, jeopardise, violate, or infringe the intellectual property rights of fxmarketapi in Fxmarketapi API Data & Services or the Fxmarketapi API;
+directly or indirectly dispute or contest the ownership, validity, or enforceability of the intellectual property rights of fxmarketapi in Fxmarketapi API Data & Services or the Fxmarketapi API, or assist any party to do so;
+through Your use of Fxmarketapi API Data & Services or the Fxmarketapi API, knowingly cause or permit anything that You know or ought to know will prejudice or hamper the reputation or goodwill of fxmarketapi;
+claim, use, or apply to register, record, or file any trade mark, trade name, copyright, or design that is identical or confusingly similar to fxmarketapi’s trademarks, or assist any other party to do so;
+use, store, or access any Fxmarketapi API Data & Services, or the Fxmarketapi API after the termination of this Agreement;
+use or permit others to use, market, distribute, or export Fxmarketapi API Data & Services, or the Fxmarketapi API; or,
+use Fxmarketapi API Data & Services or the Fxmarketapi API in any manner or for any purpose that violates any law, regulation or right of any person.
+
+Attribution 
+While usage of the Fxmarketapi API is not subject to Your end users being made aware by You that fxmarketapi is supplying the functionality you are making use of in your application(s), Your inclusion of a clickable hyperlink to the Fxmarketapi API website at www.fxmarketapi.com would be highly appreciated. 
+
+Your Responsibility to Safeguard
+You shall use Your best efforts and take all necessary steps to safeguard Fxmarketapi API Data & Services to ensure that no unauthorized reproduction, publication, disclosure, modification, distribution, or other use of any Fxmarketapi API Data & Services is made in whole or in part. To the extent that You become aware of any such unauthorized use of Fxmarketapi API Data & Services, You shall immediately notify fxmarketapi by emailing “support@fxmarketapi.com”. 
+
+Misuse of the Licensed Product
+In the event that You or any end users use Fxmarketapi API Data & Services or the Fxmarketapi API in violation of this Agreement, as applicable, fxmarketapi shall have the option of electing liquidated damages. 
+
+Services and Data
+
+Use of the Fxmarketapi API
+Subject to the terms herein, fxmarketapi will provide You with access to Fxmarketapi API Data & Services over the Internet through the Fxmarketapi API. All calls to the Fxmarketapi API must reference the credentials issued to You by fxmarketapi. You may not disclose Your credentials to any other party. You are solely responsible for ensuring the secrecy and security of Your credentials and will be responsible for all activities that occur using such credentials. You shall not use the Fxmarketapi API in a manner that exceeds reasonable request volume or constitutes excessive or abusive usage. 
+
+Usage Limits
+The extent of Your usage of the Fxmarketapi API is dependent on Your subscription plan. You shall not exceed the usage limits associated with Your account. Unused amounts of call usage will not be carried over from one monthly period to the next. If You exceed Your monthly usage limit, the Fxmarketapi API will return an error message stating that Your monthly usage limit has been reached and no further API calls can be made within the current monthly term. It is Your sole responsibility to ensure that your application(s) properly detect and handle any returned error messages. fxmarketapi will make reasonable efforts to help You identify and resolve usage problems, or to review the suitability of Your current subscription plan for Your needs. fxmarketapi reserves the right to limit or throttle the number of network calls available to Your application(s) if fxmarketapi (in its sole discretion) believes that such calls are being made for malicious reasons, or as the result of a technical error. 
+
+Responsibility for Software and Hardware
+You shall be solely responsible for acquiring, providing, and maintaining all software/hardware and Internet Services required to access the Fxmarketapi API, including but not limited to telecommunication and internet connections, ISP, web browsers, and/or other equipment and software required to access and use the Fxmarketapi API. 
+
+Services May Be Inaccessible Or Inoperable
+You hereby acknowledge that from time to time, the Fxmarketapi API may be inaccessible or inoperable for any reason, including, without limitation:
+equipment (hardware) malfunctions; software malfunctions;
+periodic maintenance procedures or repairs which fxmarketapi may undertake from time to time; and/or,
+causes beyond the reasonable control of fxmarketapi and/or not reasonably foreseeable by fxmarketapi.
+
+Service Level Agreement
+If the Fxmarketapi API is unavailable to all Fxmarketapi API customers for more than three consecutive hours in any one calendar day, beginning at 12:00:01 AM London time (GMT + 01:00) and ending at 11:59:59 PM London time (GMT + 01:00) of the same day, an outage will be deemed to have occurred. If there are more than three outages within any one calendar week, beginning at 12:00:01 AM London time (GMT + 01:00) on a Monday and ending at 11:59:59 PM London time (GMT + 01:00) on a Sunday, then You may terminate this Agreement, without liability, by providing written notice to fxmarketapi of Your intention to do so within one calendar week of the third outage. Upon such termination being accepted by fxmarketapi, You shall be entitled to a refund equal to the amount You have paid for the latest term. 
+
+Right to Change Content or Format
+You acknowledge that fxmarketapi may from time to time, and in its sole discretion, update or change the content or format of Fxmarketapi API Data or the Fxmarketapi API. fxmarketapi shall strive to provide reasonable advance notification of such changes; however, from time to time sudden changes may be required, and since fxmarketapi strives to accurately reflect these and adjust to these changes, significant advance notice is not always possible. You may be required to use the most recent version of the Fxmarketapi API in order to ensure functionality of Your application(s) with Fxmarketapi API Data & Services. 
+
+Publicity
+Each Subscriber is permitted to state publicly that such Subscriber is a Subscriber of the Services. Each Subscriber agrees that Fxmarketapi (fxmarketapi) may include such Subscriber’s name and trademarks in a list of Fxmarketapi (fxmarketapi) Subscribers, online or in promotional materials. Each Subscriber also agrees that Fxmarketapi (fxmarketapi) may verbally reference such Subscriber as a Subscriber of the Services. Subscriber may opt out of the provisions in this section by contacting Fxmarketapi.com Support. 
+
+Proprietary Rights
+Trademarks
+"Fxmarketapi", "Fxmarketapi.com", the Fxmarketapi logo and other identifying marks of Fxmarketapi are and shall remain the trademarks and trade names and exclusive property of fxmarketapi, and any unauthorized use of these marks is unlawful. Other trade-marks on the Services are the property of their respective owners. 
+
+Licensed, Not Sold
+Use of Fxmarketapi API Data & Services and the Fxmarketapi API is licensed, and not sold.
+
+Consent to Collection, Use, Retention, and Disclosure of Information In the course of providing the Fxmarketapi API, fxmarketapi collects information, including standard information of the type normally exchanged when accessing any web site or web service. This information pertains only to the access of the Fxmarketapi API, and is no different in nature to the information available to any Internet web server during the course of fulfilling a standard web request. Please read fxmarketapi’s Privacy Policy. By agreeing to the terms of this Agreement, You are expressly consenting to fxmarketapi’s collection, use, retention, and disclosure of information as set out in its Privacy Policy. 
+
+No Granting of Ownership Rights
+[..]
+
+Contact
+Should you have any questions, complaints, or comments about these Terms of Service, this service, or website, or require further clarification of any kind, please do not hesitate to contact us at support@fxmarketapi.com 
