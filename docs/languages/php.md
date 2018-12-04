@@ -1,7 +1,7 @@
 
 
-PHP (CURL)
-Below is an example for live exchange rates data using PHP (CURL):
+# PHP (CURL)
+## Below is an example for live exchange rates data using PHP (CURL):
 
 ?php
 
